@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheMindBender.
+- 👋 Hi, I’m Darshit.
 - 👀 I’m interested in Physics, Python,and Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning Python and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
