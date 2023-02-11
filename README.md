@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any open-source project where I can contribute.
 - 📫 How to reach me - darshit@iisc.ac.in
 - 📫 My LinkedIn profile - https://www.linkedin.com/in/darshit-solanki-3bb083140/
-- 📫 My HackerRank profile - https://www.hackerrank.com/darshit_solanki1
 <!------>
 - PS: I have created my profile pic using an awesome open-source software known as 'Inkscape'.
 <!---
